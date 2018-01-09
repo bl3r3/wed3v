@@ -1877,6 +1877,17 @@ a.btn:focus{
 		margin-bottom: 20px;
 	}
 
+
+
+
+.overlay{
+	background-image: url('../img/portada-tb-sp.jpg');
+
+}
+
+
+
+
 }
 
 @media (max-width:480px) {
@@ -1905,6 +1916,15 @@ a.btn:focus{
 	
 .tm-rd{
 	margin-top: 20px;
+}
+
+
+.big-heading{
+	font-size: 28px;
+}
+
+.btn{
+	display: none;
 }
 
 
