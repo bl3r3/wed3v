@@ -1,0 +1,20 @@
+{
+  "name": "wed3v",
+  "version": "1.0.0",
+  "description": "WeD3v",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racg211/wed3v.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racg211/wed3v/issues"
+  },
+  "homepage": "https://github.com/racg211/wed3v#readme"
+}
